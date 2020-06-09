@@ -1,0 +1,30 @@
+{
+    "name": "datavirt-extension-pack",
+    "displayName": "Extension Pack for Data Virtualization by Red Hat",
+    "description": "VS Code extensions for Data Virtualization.",
+    "icon": "icons/icon128.png",
+    "publisher": "redhat",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jboss-fuse/vscode-datavirt-extension-pack.git"
+    },
+    "preview": true,
+    "version": "0.0.1",
+    "license": "Apache-2.0",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "redhat.vscode-datavirt",
+        "redhat.vscode-yaml",
+        "jakebathman.mysql-syntax"
+    ],
+    "keywords": [
+        "Data Virtualization",
+        "Teiid",
+        "Red Hat"
+    ]
+}
