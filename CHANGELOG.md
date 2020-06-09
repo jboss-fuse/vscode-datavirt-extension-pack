@@ -1,5 +1,10 @@
 # ChangeLog
 
+## 0.0.2
+
+- ...
+
+
 ## 0.0.1
 
 - added Red Hat Integration - Data Virtualization Tooling Extension (https://marketplace.visualstudio.com/items?itemName=redhat.vscode-datavirt)
