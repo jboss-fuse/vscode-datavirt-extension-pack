@@ -12,7 +12,7 @@
     "version": "0.0.2",
     "license": "Apache-2.0",
     "engines": {
-        "vscode": "^1.45.0"
+        "vscode": "^1.46.0"
     },
     "categories": [
         "Extension Packs"
@@ -20,7 +20,8 @@
     "extensionPack": [
         "redhat.vscode-datavirt",
         "redhat.vscode-yaml",
-        "jakebathman.mysql-syntax"
+        "jakebathman.mysql-syntax",
+        "ms-kubernetes-tools.vscode-kubernetes-tools"
     ],
     "keywords": [
         "Data Virtualization",

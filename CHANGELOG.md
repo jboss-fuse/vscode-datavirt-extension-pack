@@ -2,8 +2,7 @@
 
 ## 0.0.2
 
-- ...
-
+- added Microsoft Kubernetes Extension (https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
 
 ## 0.0.1
 
