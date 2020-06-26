@@ -9,7 +9,7 @@
         "url": "https://github.com/jboss-fuse/vscode-datavirt-extension-pack.git"
     },
     "preview": true,
-    "version": "0.0.2",
+    "version": "0.0.3",
     "license": "Apache-2.0",
     "engines": {
         "vscode": "^1.46.0"
