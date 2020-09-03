@@ -6,3 +6,6 @@ This extension pack installs the following Visual Studio Code extensions that ar
 * [YAML Editor Support](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml). It provides Language support for YAML files.
 * [MySQL Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=jakebathman.mysql-syntax). It provides syntax coloring for SQL in the editor.
 
+# NOTE
+
+This extension is no longer maintained and development stopped.
